@@ -1,0 +1,12 @@
+.meta {
+	max-width:25%;
+	height:auto;
+		display:inline-block;
+}
+img{
+	max-width:100%;
+	height:auto;
+}
+body {
+	background-image:url(/res/bg.jpg);
+}
